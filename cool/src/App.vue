@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    我是一个人
+    呵呵
     <router-view/>
   </div>
 </template>
