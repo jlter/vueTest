@@ -1,3 +1,3 @@
 <template>
-	有趣有趣
+	有什么意思
 </template>	
